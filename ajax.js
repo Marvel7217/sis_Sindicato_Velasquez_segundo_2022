@@ -1,6 +1,5 @@
 // JavaScript Document
 
-//MENSAJE DE PRUEVA
 function nuevoAjax(){
 	var xmlhttp=false;
 	try {
